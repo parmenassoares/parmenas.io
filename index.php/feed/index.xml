@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pármenas Soares</title>
-	<atom:link href="https://github.com/parmenassoares/parmenas.io/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/parmenassoares/parmenas.io/</link>
+	<atom:link href="//parmenassoares.github.io/parmenas.io/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>//parmenassoares.github.io/parmenas.io/</link>
 	<description>Soluções WEB</description>
 	<lastBuildDate>Wed, 08 Jan 2020 15:22:28 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,35 +21,35 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://github.com/parmenassoares/parmenas.io/wp-content/uploads/2019/04/cropped-logo-32x32.png</url>
+	<url>//parmenassoares.github.io/parmenas.io/wp-content/uploads/2019/04/cropped-logo-32x32.png</url>
 	<title>Pármenas Soares</title>
-	<link>https://github.com/parmenassoares/parmenas.io/</link>
+	<link>//parmenassoares.github.io/parmenas.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://github.com/parmenassoares/parmenas.io/index.php/2020/01/08/hello-world/</link>
-					<comments>https://github.com/parmenassoares/parmenas.io/index.php/2020/01/08/hello-world/#respond</comments>
+		<link>//parmenassoares.github.io/parmenas.io/index.php/2020/01/08/hello-world/</link>
+					<comments>//parmenassoares.github.io/parmenas.io/index.php/2020/01/08/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[parmenas]]></dc:creator>
 		<pubDate>Wed, 08 Jan 2020 15:22:28 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/parmenassoares/parmenas.io/?p=1</guid>
+		<guid isPermaLink="false">//parmenassoares.github.io/parmenas.io/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/parmenassoares/parmenas.io/index.php/2020/01/08/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>//parmenassoares.github.io/parmenas.io/index.php/2020/01/08/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hundreds of thousands a still more glorious nights around art table</title>
-		<link>https://github.com/parmenassoares/parmenas.io/index.php/2019/04/01/hundreds-of-thousands-a-still-more-glorious/</link>
+		<link>//parmenassoares.github.io/parmenas.io/index.php/2019/04/01/hundreds-of-thousands-a-still-more-glorious/</link>
 		
 		<dc:creator><![CDATA[parmenas]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 15:41:48 +0000</pubDate>
@@ -78,7 +78,7 @@
 			</item>
 		<item>
 		<title>Citizens of distant epochs encyclopaedia galactica the ash of stellar</title>
-		<link>https://github.com/parmenassoares/parmenas.io/index.php/2019/03/31/light-years-take-root-and-flourish-ocean/</link>
+		<link>//parmenassoares.github.io/parmenas.io/index.php/2019/03/31/light-years-take-root-and-flourish-ocean/</link>
 		
 		<dc:creator><![CDATA[parmenas]]></dc:creator>
 		<pubDate>Sun, 31 Mar 2019 15:41:53 +0000</pubDate>
@@ -107,7 +107,7 @@
 			</item>
 		<item>
 		<title>Vangelis astonishment birth consciousness cosmic ocean citizens</title>
-		<link>https://github.com/parmenassoares/parmenas.io/index.php/2019/03/30/hearts-of-the-stars-gathered/</link>
+		<link>//parmenassoares.github.io/parmenas.io/index.php/2019/03/30/hearts-of-the-stars-gathered/</link>
 		
 		<dc:creator><![CDATA[parmenas]]></dc:creator>
 		<pubDate>Sat, 30 Mar 2019 15:42:12 +0000</pubDate>

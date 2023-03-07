@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Hello world!	</title>
-	<atom:link href="https://github.com/parmenassoares/parmenas.io/index.php/2020/01/08/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/parmenassoares/parmenas.io/index.php/2020/01/08/hello-world/</link>
+	<atom:link href="//parmenassoares.github.io/parmenas.io/index.php/2020/01/08/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>//parmenassoares.github.io/parmenas.io/index.php/2020/01/08/hello-world/</link>
 	<description>Soluções WEB</description>
 	<lastBuildDate>Wed, 08 Jan 2020 15:22:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

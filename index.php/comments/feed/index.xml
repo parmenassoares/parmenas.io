@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre Pármenas Soares	</title>
-	<atom:link href="https://github.com/parmenassoares/parmenas.io/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/parmenassoares/parmenas.io/</link>
+	<atom:link href="//parmenassoares.github.io/parmenas.io/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>//parmenassoares.github.io/parmenas.io/</link>
 	<description>Soluções WEB</description>
 	<lastBuildDate>Sat, 24 Dec 2022 07:00:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
